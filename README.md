@@ -1,3 +1,7 @@
+Simple React frontend app for consuming this Student API https://github.com/grz55/students-flyway
+App shows all students from the database.
+
+-----------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
